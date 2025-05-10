@@ -12,12 +12,13 @@ body {
     font-weight: bold;
     color: white;
     text-align: center;
-    margin-top: 0px;
-    margin-bottom:0px;
+    margin-top: 0;
+    margin-bottom:0;
 }
 
 .gif_container {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 0;
 }
